@@ -48,12 +48,6 @@
       "@pages/*": [
         "app/pages/*"
       ],
-      "@testing": [
-        "testing"
-      ],
-      "@testing/*": [
-        "testing/*"
-      ],
       "@env": [
         "environments"
       ],

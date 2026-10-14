@@ -27,3 +27,4 @@ Thumbs.db
 *.zip
 split/
 **/split/
+node_modules_parts/
